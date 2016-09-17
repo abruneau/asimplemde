@@ -10,21 +10,21 @@ WYSIWYG editors that produce HTML are often complex and buggy. Markdown solves t
 
 ## Install
 
-Via [npm](https://www.npmjs.com/package/simplemde).
+Via [npm](https://www.npmjs.com/package/asimplemde).
 ```
-npm install simplemde --save
+npm install asimplemde --save
 ```
 
 Via [bower](https://www.bower.io).
 ```
-bower install simplemde --save
+bower install asimplemde --save
 ```
 
 Via [jsDelivr](https://www.jsdelivr.com/#!simplemde). *Please note, jsDelivr may take a few days to update to the latest release.*
 
 ```HTML
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
-<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/asimplemde/latest/simplemde.min.css">
+<script src="https://cdn.jsdelivr.net/asimplemde/latest/simplemde.min.js"></script>
 ```
 
 ## Quick start
