@@ -9,17 +9,17 @@
     "javascript",
     "wysiwyg"
   ],
-  "homepage": "https://github.com/abruneau/simplemde-markdown-editor",
+  "homepage": "https://github.com/abruneau/asimplemde",
   "main": "./src/js/simplemde.js",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abruneau/simplemde-markdown-editor/issues"
+    "url": "https://github.com/abruneau/asimplemde/issues"
   },
   "dependencies": {
     "codemirror": "*",
     "codemirror-spell-checker": "*",
     "marked": "*",
-	"markdown-it": "^7.0.0",
+    "markdown-it": "^7.0.0",
     "markdown-it-checkbox": "^1.1.0",
     "markdown-it-contents": "0.0.1",
     "markdown-it-emoji": "^1.2.0",
@@ -43,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abruneau/simplemde-markdown-editor"
+    "url": "https://github.com/abruneau/asimplemde"
   }
 }
